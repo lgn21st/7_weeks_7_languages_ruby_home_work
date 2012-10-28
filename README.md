@@ -20,7 +20,7 @@
 
 1. rake
 2. rspec
-3. ruby
+3. ruby 1.9.3
 4. vim
 5. git / github
 6. whiteboard
@@ -28,5 +28,3 @@
 
 ### TODO
 
-* deal with another dimension: [[0, 0]]
-* deal with two dimension
